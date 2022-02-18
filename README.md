@@ -39,7 +39,7 @@
 	
 ### CAPÍTULO 15:
 
-**15.5  Impedancia y admitancia de circuitos RC en paralelo**
+	15.5  Impedancia y admitancia de circuitos RC en paralelo
 
 41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94. 
 
@@ -79,7 +79,7 @@ Itot = 10 A + j2.77 A
 
 θ= 0 gardos
 
-**15.7 Análisis de circuitos RC en serie-paralelo**
+	15.7 Análisis de circuitos RC en serie-paralelo
 
 49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje. 
 
@@ -96,7 +96,7 @@ Itot = 10 A + j2.77 A
 
 ![Screenshot 2022-02-17 203420](https://user-images.githubusercontent.com/93826527/154600691-e5c21510-a609-49ea-8546-a5664c6cbda7.png)
 
-**15.8 Potencia en circuitos RC** 
+	15.8 Potencia en circuitos RC
 
 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente
 
@@ -160,7 +160,7 @@ Ic = 3.235 < 90° mA
 
 ### CAPÍTULO 16:
 
-**16.1 Respuesta sinusoidal de circuitos RL en serie**
+	16.1 Respuesta sinusoidal de circuitos RL en serie
 
 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
 
