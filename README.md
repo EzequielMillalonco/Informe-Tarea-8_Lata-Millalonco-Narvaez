@@ -16,6 +16,15 @@
 
 ### CAPÍTULO 15: 
 	
+![Untitled (36)](https://user-images.githubusercontent.com/93396250/154638856-eb80db3e-cb70-411d-925c-981d871c3fd8.jpg)
+
+![Untitled (37)](https://user-images.githubusercontent.com/93396250/154638866-2f5a227f-00dd-48dd-9053-4e9103e8f333.jpg)
+
+![Untitled (39)](https://user-images.githubusercontent.com/93396250/154638873-f4b377f5-6b5a-4ecb-8f78-4faf9b3de3af.jpg)
+
+![Untitled (40)](https://user-images.githubusercontent.com/93396250/154638880-485557da-9c55-4be6-99b2-dbab02021a8d.jpg)
+
+
 
 ### CAPÍTULO 16:
 
