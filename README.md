@@ -52,44 +52,64 @@
 	
 **21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.**
 
+![image](https://user-images.githubusercontent.com/93396250/154872513-0b27dd0a-8b1e-4109-a704-4f7233d48d33.png)
+
 
 **23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:**
 
 (a)  100 Hz       (b) 500 Hz        (c) 1 kHz        (d) 2.5 kHz
 
+![image](https://user-images.githubusercontent.com/93396250/154872536-76bafbbd-434c-4ac9-a7dc-614ebbbee68c.png)
+
+
 **25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia Total**
 
-(a)  Z = 33 Æ-j50 Æ 
+![image](https://user-images.githubusercontent.com/93396250/154872548-ea2498b3-21de-4d0b-9049-34909479c758.png)
 
-(b) Z = 300∠ -25° Æ 
-
-(c)  Z = 1.8∠ -67.2° kÆ
-
-(d) Z = 789∠ -45° Æ
 
 	SECCIÓN 15–4    Análisis de circuitos RC en serie
 	
 **27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.**
 
+![image](https://user-images.githubusercontent.com/93396250/154872574-602b6546-7ab9-48dc-ad0a-eee805b036ad.png)
+
+![image](https://user-images.githubusercontent.com/93396250/154872585-b7627b75-4990-4753-9859-83646e97d133.png)
+
+![image](https://user-images.githubusercontent.com/93396250/154872594-db9dbe92-3dc3-46c6-8172-6cd282cf4159.png)
 
 **29. Repita el problema 28 para el circuito de la figura 15-86, con f  5 kHz.**
+
+![image](https://user-images.githubusercontent.com/93396250/154872604-0d26a07d-84a4-474a-adf1-8d1ccbced594.png)
+
+![image](https://user-images.githubusercontent.com/93396250/154872608-0d46b002-6d42-4176-a63e-b5f1f62ec82e.png)
 
 
 **31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:**
 
 (a)  Z       (b)  Itot             (c)  VR             (d)  VC
 
+![image](https://user-images.githubusercontent.com/93396250/154872625-d59cb4b8-0546-4ed6-8674-5be18d7b1c15.png)
+
 
 **33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: Preal  400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).**
+
+![image](https://user-images.githubusercontent.com/93396250/154872634-e27fb1f6-12a8-4bcb-89c3-c2a6374fa659.png)
 
 
 **35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.**
 
+![image](https://user-images.githubusercontent.com/93396250/154872642-a4d5d508-b1b0-4946-ab9e-c995a21d41a4.png)
+![image](https://user-images.githubusercontent.com/93396250/154872648-41e645e5-88d2-4eb6-bd88-412e8a32905b.png)
 
 **37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.**
 
+![image](https://user-images.githubusercontent.com/93396250/154872657-6a8af74e-1f3d-4ddf-8356-98f52b4a84e2.png)
+![image](https://user-images.githubusercontent.com/93396250/154872664-337e9256-dcea-4c7e-b642-4d6057075f33.png)
 
 **39. Repita el problema 38 para el circuito de la figura 15-92. Vs  10 V rms y f  1 kHz.**
+
+![image](https://user-images.githubusercontent.com/93396250/154872672-6e8d1161-1122-4e77-b2a1-84dcb9c83632.png)
+![image](https://user-images.githubusercontent.com/93396250/154872683-043e259c-d75f-4afc-b870-e8f27caad44a.png)
 
 
 
@@ -270,7 +290,27 @@ Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)
 Z = √(12)^2 + (251.3)^2 < tan^-1 (251.3/12)
 Z = 252 < 87.3° ohm
 
+	SECCIÓN 16–6    Análisis de circuitos RL en serie-paralelo
 
+**33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.**
+
+![image](https://user-images.githubusercontent.com/93396250/154872711-bfe0f387-ca2c-49c2-86af-bcb7354f5782.png)
+
+**35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A**
+
+![image](https://user-images.githubusercontent.com/93396250/154872723-10314bcf-e0b8-4fda-a325-699de1b2cd7b.png)
+![image](https://user-images.githubusercontent.com/93396250/154872727-455c52bc-fac2-4c2e-8405-c91a31e7e61a.png)
+
+	SECCIÓN 16–7   Potencia en circuitos RL
+
+**37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.**
+
+![image](https://user-images.githubusercontent.com/93396250/154872754-cd94a619-07a1-4e13-8e1a-d7433107ad04.png)
+
+**39. Determine P, Q , S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia**
+
+![image](https://user-images.githubusercontent.com/93396250/154872767-88219ccc-503a-465f-86e3-b4424c5af946.png)
+![image](https://user-images.githubusercontent.com/93396250/154872774-4cd61546-6797-4e45-a0e6-2a912b17cd6a.png)
 
 
 ## 4.	VIDEO
