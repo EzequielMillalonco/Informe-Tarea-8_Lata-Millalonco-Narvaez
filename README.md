@@ -462,10 +462,10 @@ Para el circuito de retraso de la figura 16-61, determine el retraso de fase del
 	
 	Link del video ¨Informe tarea 8¨, en dondé se explican 4 ejercicios vistos en la Tarea #8 :
 	
-https://youtu.be/2iV6VzArCmY
+https://youtu.be/QsRkpQGGuNE
 	
 	
-[![Presentación Tarea 1](https://img.youtube.com/vi/2iV6VzArCmY/0.jpg)](https://www.youtube.com/watch?v=2iV6VzArCmY)
+[![Presentación Tarea 1](https://img.youtube.com/vi/QsRkpQGGuNE/0.jpg)](https://www.youtube.com/watch?v=QsRkpQGGuNE)
 	
 ## 5.	CONCLUSIONES
         
