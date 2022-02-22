@@ -12,7 +12,6 @@ Explicar y resolver los problemas presentados en los capítulos quince y diecis�
 		
 **b.**	Analizar de forma correcta los resultaos obtenidos obtenidos por los simuladores virtuales en multisim, empleando osiloscopios, establecer la relación con los elementos reales y entender como interactua la corriente alterna con los inductores y capacitores.
 
-**c.**	
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
