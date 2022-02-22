@@ -3,12 +3,14 @@
 
 	1.1	GENERAL: 
 
+Explicar y resolver los problemas presentados en los capítulos quince y dieciséis del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente a circuitos RL y RC con fuentes de corriente alterna, todo esto con el objetivo de poder encontrar un voltaje y las corrientes teniendo en cuenta los voltajes rms y pico a pico, su transformacion, sus frecuencias y desfaces, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con un análisis adecuado.
+
 
 	1.2	ESPECÍFICOS:
 
-**a.**	
+**a.**	Identificar de manera rapida lo que pide el ejercicio, resolver los circuitos mediante los los metodos explicados en los precentes capitulos sobre inductores y capacitores con corriente alterna.
 		
-**b.**	
+**b.**	Analizar de forma correcta los resultaos obtenidos obtenidos por los simuladores virtuales en multisim, empleando osiloscopios, establecer la relación con los elementos reales y entender como interactua la corriente alterna con los inductores y capacitores.
 
 **c.**	
 
@@ -47,6 +49,86 @@
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
 ### CAPÍTULO 15:
+
+	SECCIÓN 15–1    El sistema de los números complejos
+
+*1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?*
+
+	Los números complejos incluyen todas las raíces de los polinomios, a diferencia de los reales.
+
+	Todo número complejo puede representarse como la suma de un número real y un número imaginario (que es un múltiplo real de la unidad imaginaria, que se indica con la 		letra i, o en forma polar).
+
+*3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:*
+
+(a) 3, j5
+
+(b) -7,j1
+
+(c) -10,-10j
+
+![image](https://user-images.githubusercontent.com/93834732/155044217-684d19d5-0aec-4319-a656-07757f58381c.png)
+
+*5. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los puntos del problema 3*
+
+![image](https://user-images.githubusercontent.com/93834732/155044263-f0c6a4bd-deec-4bce-95df-2b78d1ea1453.png)
+
+*7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?*
+
+![image](https://user-images.githubusercontent.com/93834732/155044378-fbaf8e60-dd69-485e-b5fb-4a5a393f9e9d.png)
+
+*9.Convierta cada uno de los siguientes números polares a forma rectangular:*
+
+(a) 1000 Angulo -50 grados
+
+![image](https://user-images.githubusercontent.com/93834732/155044472-37ccc5c1-a9ed-43a1-ac97-0f26d4eacd12.png)
+
+(b) 15 Angulo 160 grados
+
+![image](https://user-images.githubusercontent.com/93834732/155044488-2cbd5155-e2f1-49be-8f26-6cb72ae793bc.png)
+
+(c) 25 angulo -135 grados
+
+![image](https://user-images.githubusercontent.com/93834732/155044511-f2e393e6-ad5e-42ed-8be0-96069cbb0ae3.png)
+
+(d) 3 Angulo 180 grados
+
+![image](https://user-images.githubusercontent.com/93834732/155044525-5039c885-5fa9-403c-9d05-dad2236f8694.png)
+
+*11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8*
+
+Cuarto cuadrante a,b y c
+
+Primer cuadrante d
+
+*13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.*
+
+![image](https://user-images.githubusercontent.com/93834732/155043581-3383e2a2-715f-4aff-b6e3-6f90feccbbeb.png)
+
+a) 12<115°
+
+b) 20<230°
+
+c) 100<190°
+
+d) 50<160°
+
+*15. Realice las siguientes sustracciones: *
+
+![image](https://user-images.githubusercontent.com/93834732/155043615-50b6cef8-2ea0-4c59-a7bb-e5b6e008bd97.png)
+
+![image](https://user-images.githubusercontent.com/93834732/155044610-2556ff4c-ff78-44b4-8dfe-aa4607d4a0cd.png)
+
+*17. Realice las siguientes divisiones*
+	
+![image](https://user-images.githubusercontent.com/93834732/155043636-608c865b-674b-4c98-883b-9a63883667eb.png)
+
+![image](https://user-images.githubusercontent.com/93834732/155044632-8a7c29e8-bf65-4d49-9848-61c793985d8f.png)
+
+	SECCIÓN 15–2    Impedancia de circuitos RC en serie
+
+*19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?*
+
+El valor del voltaje en el resistor es el del voltaje RMC. A travez del capacitor dependiendo de si es de mayor o menor almacenamiento se comportara como un corto o como un cable abierto.
 
 	SECCIÓN 15–3    Impedancia de circuitos RC en serie
 	
@@ -290,6 +372,70 @@ Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)
 Z = √(12)^2 + (251.3)^2 < tan^-1 (251.3/12)
 Z = 252 < 87.3° ohm
 
+SECCIÓN 16–3    Análisis de circuitos RL en serie
+	
+*9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.*
+
+![image](https://user-images.githubusercontent.com/93834732/155045703-1bb15ed2-86de-46b3-bcb3-586574152c3a.png)
+
+*11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.*
+
+![image](https://user-images.githubusercontent.com/93834732/155045731-7fe28fb2-688d-4d80-bbe5-3bb0ad53b9c1.png)
+
+![image](https://user-images.githubusercontent.com/93834732/155045747-42aa2a88-a3fc-40a7-adac-cf96055438a0.png)
+
+*13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye teta?*
+
+![image](https://user-images.githubusercontent.com/93834732/155045801-144eb209-c088-4682-95d7-ebe547d9c9cc.png)
+
+El angulo aumenta en 20 grados
+
+*15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias*
+
+(a) 60 Hz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046155-76de56a3-5c70-48fa-9885-dc31cf5e37c7.png)
+
+(b) 200 Hz
+
+![image](https://user-images.githubusercontent.com/93834732/155046184-3f63c5a8-cdeb-4559-8b64-81ca579d2361.png)
+
+(c) 500 Hz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046231-f69ec26c-297a-41cc-8e26-cb8fe42d1750.png)
+
+(d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/93834732/155046245-bbcf3d92-da6f-4001-9d9b-8a9d649f2540.png)
+
+Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+(a) 1 Hz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046351-a9659f26-5b4f-4860-bcd8-9865808d0910.png)
+
+(b) 100 Hz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046375-706d1006-0d11-49fe-a8ec-5819bb543c49.png)
+
+(c) 1 kHz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046441-1c458c20-c077-48fc-887c-2ee4ac582b98.png)
+
+(d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/93834732/155046468-ac281d48-afc4-44e9-b110-e0f598fbc613.png)
+
+
+	SECCIÓN 16–4     Impedancia y admitancia de circuitos RL en paralelo
+*19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?*
+
+![image](https://user-images.githubusercontent.com/93834732/155046314-5a5f5a16-7e44-49b2-9c29-90d7fbecd366.png)
+
+*21 ¿A qué frecuencia XL es igual a R en la figura 16-63?*
+
+![image](https://user-images.githubusercontent.com/93834732/155046295-bb518d2f-bbdb-4273-b7ce-4d424d87f911.png)
+
 	SECCIÓN 16–6    Análisis de circuitos RL en serie-paralelo
 
 **33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.**
@@ -324,11 +470,9 @@ https://youtu.be/2iV6VzArCmY
 	
 ## 5.	CONCLUSIONES
         
-   1.
+   1. Por medio del presente trabajo permitió aplicar los métodos ya conocidos sobre los inductores y los capacitores en un circuito electrico con reciostencias, tanto en serie      como el paralelo, la resolución de circuitos eléctricos con capacitores, inductores y resistencias, otorgó resultados confiables ya que fueron relacionados con los con simuladores virtuales,
    
-   2.
-   
-   3.
+   2. Cada circuito reporto valores importantes que permitieron entender los resultados y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado.
    
 
 ## 6.	BIBLIOGRAFÍA
